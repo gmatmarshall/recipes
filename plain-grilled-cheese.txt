@@ -1,0 +1,4 @@
+1 Take Bread
+2 Put Cheeese on it
+3 Put in Toaster
+4 Toast
